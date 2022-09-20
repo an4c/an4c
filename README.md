@@ -1,0 +1,4 @@
+- :briefcase: Olá, eu sou a Ana
+- :pushpin: sou interessada em gatos músicas séries desenhar
+- :scroll: estou aprendendo o basico sobre programação
+- :postbox: ana.clara.pacheco@escola.pr.gov.br
